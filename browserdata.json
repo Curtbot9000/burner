@@ -10,5 +10,29 @@
         "DownloadCount": 0,
         "Outdated": false,
         "Banned": false
+    },
+    {
+        "Name": "Fancy Chat",
+        "Authors": ["TubaAntics"],
+        "Description": "Adds Fancy Chat to the game",
+        "HarmonyID": "tubaantics.fancychat",
+        "Version": "1.0.0",
+        "DLLName": "FancyChat.dll",
+        "PublishTime": 1690924320,
+        "DownloadCount": 0,
+        "Outdated": false,
+        "Banned": false
+    },
+    {
+        "Name": "Colored Nametags",
+        "Authors": ["TubaAntics"],
+        "Description": "Adds your role color and role icon to your character nametag in game.",
+        "HarmonyID": "tubaantics.colorednametags",
+        "Version": "1.0.0",
+        "DLLName": "ColoredNametags.dll",
+        "PublishTime": 1690924560,
+        "DownloadCount": 0,
+        "Outdated": false,
+        "Banned": false
     }
 ]
