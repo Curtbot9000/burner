@@ -9,7 +9,7 @@
         "ThumbnailPath": "curtis.day.night.sync.jpg",
         "PublishTime": 1690920920,
         "DownloadCount": 0,
-        "Outdated": false,
+        "Outdated": true,
         "Banned": false
     },
     {
@@ -23,7 +23,7 @@
         "PublishTime": 1690924320,
         "DownloadCount": 0,
         "Outdated": false,
-        "Banned": false
+        "Banned": true
     },
     {
         "Name": "Colored Nametags",
@@ -35,8 +35,8 @@
         "ThumbnailPath": "tubaantics.colorednametags.jpg",
         "PublishTime": 1690924560,
         "DownloadCount": 0,
-        "Outdated": false,
-        "Banned": false
+        "Outdated": true,
+        "Banned": true
     },
     {
         "Name": "Town Traitor Mod",
