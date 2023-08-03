@@ -7,8 +7,8 @@
         "Version": "1.0.0",
         "DLLName": "DayNight.dll",
         "ThumbnailPath": "curtis.day.night.sync.jpg",
-        "PublishTime": 1690920920,
-        "DownloadCount": 69420,
+        "PublishTime": 1691168400,
+        "DownloadCount": 0,
         "Outdated": false,
         "Banned": false
     },
@@ -20,7 +20,7 @@
         "Version": "1.0.0",
         "DLLName": "FancyChat.dll",
         "ThumbnailPath": "tubaantics.fancychat.jpg",
-        "PublishTime": 1690924320,
+        "PublishTime": 1691168400,
         "DownloadCount": 0,
         "Outdated": false,
         "Banned": false
@@ -33,7 +33,7 @@
         "Version": "1.0.0",
         "DLLName": "ColoredNametags.dll",
         "ThumbnailPath": "tubaantics.colorednametags.jpg",
-        "PublishTime": 1690924560,
+        "PublishTime": 1691168400,
         "DownloadCount": 0,
         "Outdated": false,
         "Banned": false
@@ -46,7 +46,7 @@
         "Version": "1.0.0",
         "DLLName": "TTPlugin.dll",
         "ThumbnailPath": "tubaantics.ttmode.png",
-        "PublishTime": 1690996560,
+        "PublishTime": 1691168400,
         "DownloadCount": 0,
         "Outdated": false,
         "Banned": false
@@ -59,7 +59,7 @@
         "Version": "1.0.0",
         "DLLName": "GameLogs.dll",
         "ThumbnailPath": "tubaantics.gamelogs.png",
-        "PublishTime": 1690998180,
+        "PublishTime": 1691168400,
         "DownloadCount": 0,
         "Outdated": false,
         "Banned": false
