@@ -6,7 +6,7 @@
         ],
         "Description": "This mod allows you to sync your in-game time to realtime, with it changing to night time when it is night time irl. You can also just choose to have it be night time 24/7",
         "HarmonyID": "curtis.day.night.sync",
-        "Version": "1.0.0",
+        "Version": "1.0.1",
         "DLLName": "DayNight.dll",
         "ThumbnailPath": "curtis.day.night.sync.jpg",
         "PublishTime": 1691168400,
