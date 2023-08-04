@@ -9,7 +9,7 @@
         "ThumbnailPath": "curtis.day.night.sync.jpg",
         "PublishTime": 1691168400,
         "DownloadCount": 0,
-        "Outdated": true,
+        "Outdated": false,
         "Banned": false
     },
     {
@@ -17,7 +17,7 @@
         "Authors": ["TubaAntics"],
         "Description": "Adds Fancy Chat to the game",
         "HarmonyID": "tubaantics.fancychat",
-        "Version": "1.0.1",
+        "Version": "1.0.0",
         "DLLName": "FancyChat.dll",
         "ThumbnailPath": "tubaantics.fancychat.jpg",
         "PublishTime": 1691168400,
@@ -49,7 +49,7 @@
         "PublishTime": 1691168400,
         "DownloadCount": 0,
         "Outdated": false,
-        "Banned": true
+        "Banned": false
     },
     {
         "Name": "Game Logs",
